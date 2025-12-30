@@ -5,7 +5,7 @@
 const urls = {
   'GitHub': 'https://www.github.com',
   'Google': 'https://www.google.com/generate_204',
-  'YouTube': 'https://www.***********/generate_204'
+  'YouTube': 'https://www.youtube.com/generate_204'
 };
 
 !(async () => {
