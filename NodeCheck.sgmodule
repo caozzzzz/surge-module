@@ -5,7 +5,7 @@
 
 [Script]
 
-Combined_Monitor = type=generic,timeout=5,script-path=https://github.com/caozzzzz/surge-module/blob/main/combined_monitor.js,update-interval=60
+Combined_Monitor = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/caozzzzz/surge-module/refs/heads/main/combined_monitor.js,update-interval=60
 
 [Panel]
 Combined_Monitor = script-name= Combined_Monitor,update-interval=60
