@@ -1,0 +1,11 @@
+#!name=节点显示面板集成版
+#!desc=展示 IP 详细信息及延迟对齐版测速。
+#!category=节点信息
+#!system=ios
+
+[Script]
+
+Combined_Monitor = type=generic,timeout=5,script-path=https://github.com/caozzzzz/surge-module/blob/main/combined_monitor.js,update-interval=60
+
+[Panel]
+Combined_Monitor = script-name= Combined_Monitor,update-interval=60
